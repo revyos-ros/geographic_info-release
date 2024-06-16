@@ -1,3 +1,29 @@
+## geographic_info (jazzy) - 1.0.6-3
+
+The packages in the `geographic_info` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy geographic_info --override-release-repository-push-url git@github.com:revyos-ros/geographic_info-release.git` on `Sun, 16 Jun 2024 11:00:47 -0000`
+
+These packages were released:
+- `geodesy`
+- `geographic_info`
+- `geographic_msgs`
+
+Version of package(s) in repository `geographic_info`:
+
+- upstream repository: https://github.com/ros-geographic-info/geographic_info.git
+- release repository: https://github.com/revyos-ros/geographic_info-release.git
+- rosdistro version: `1.0.6-2`
+- old version: `1.0.6-2`
+- new version: `1.0.6-3`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## geographic_info (iron) - 1.0.6-1
 
 The packages in the `geographic_info` repository were released into the `iron` distro by running `/usr/bin/bloom-release geographic_info --rosdistro iron --track iron --edit` on `Thu, 04 Apr 2024 18:52:38 -0000`
